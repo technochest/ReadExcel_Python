@@ -1,4 +1,6 @@
 # ReadExcel_Python
+Very simple example of reading excel file: 
+
 1. Reading values from an excel
 2. Storing in a list
 3. Printing those values on the screen using python and openpyexcel file...
